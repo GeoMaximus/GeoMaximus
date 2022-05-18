@@ -8,6 +8,7 @@ and full time testing my limits 😅.
 <a href="https://twitter.com/geomaximus_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter" /></a> 
 <a href="https://www.instagram.com/geomaximus/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram" /></a>
 <a href="www.linkedin.com/in/georgiana-adelina-pescaru" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin" /></a>
+<a href="https://open.spotify.com/user/geomaximus" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-%2312100E.svg?&style=for-the-badge&logo=spotify" /></a>
 <p>|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|</p>
 
 <h3>🧳 My baggage of knowledge includes the following technologies:</h3>
